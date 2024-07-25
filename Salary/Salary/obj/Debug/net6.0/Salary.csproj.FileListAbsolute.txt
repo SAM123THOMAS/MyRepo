@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\bin\Debug\net6.0\Salary.exe
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\bin\Debug\net6.0\Salary.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\bin\Debug\net6.0\Salary.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\bin\Debug\net6.0\Salary.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\bin\Debug\net6.0\Salary.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\obj\Debug\net6.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\obj\Debug\net6.0\Salary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\obj\Debug\net6.0\Salary.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\obj\Debug\net6.0\Salary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\obj\Debug\net6.0\Salary.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\obj\Debug\net6.0\refint\Salary.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\obj\Debug\net6.0\Salary.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\obj\Debug\net6.0\Salary.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Salary\Salary\obj\Debug\net6.0\ref\Salary.dll

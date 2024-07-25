@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Q3_Swap/1.0.0": {
+        "runtime": {
+          "Q3_Swap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q3_Swap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

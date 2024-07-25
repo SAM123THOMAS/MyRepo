@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\bin\Debug\net6.0\Q3_Swap.exe
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\bin\Debug\net6.0\Q3_Swap.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\bin\Debug\net6.0\Q3_Swap.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\bin\Debug\net6.0\Q3_Swap.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\bin\Debug\net6.0\Q3_Swap.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\obj\Debug\net6.0\Q3_Swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\obj\Debug\net6.0\Q3_Swap.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\obj\Debug\net6.0\Q3_Swap.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\obj\Debug\net6.0\Q3_Swap.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\obj\Debug\net6.0\Q3_Swap.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\obj\Debug\net6.0\refint\Q3_Swap.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\obj\Debug\net6.0\Q3_Swap.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\obj\Debug\net6.0\Q3_Swap.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Q3_Swap\Q3_Swap\obj\Debug\net6.0\ref\Q3_Swap.dll
