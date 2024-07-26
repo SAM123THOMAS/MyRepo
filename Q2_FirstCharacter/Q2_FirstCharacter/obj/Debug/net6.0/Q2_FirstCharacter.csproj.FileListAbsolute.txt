@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\bin\Debug\net6.0\Q2_FirstCharacter.exe
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\bin\Debug\net6.0\Q2_FirstCharacter.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\bin\Debug\net6.0\Q2_FirstCharacter.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\bin\Debug\net6.0\Q2_FirstCharacter.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\bin\Debug\net6.0\Q2_FirstCharacter.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\obj\Debug\net6.0\Q2_FirstCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\obj\Debug\net6.0\Q2_FirstCharacter.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\obj\Debug\net6.0\Q2_FirstCharacter.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\obj\Debug\net6.0\Q2_FirstCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\obj\Debug\net6.0\Q2_FirstCharacter.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\obj\Debug\net6.0\refint\Q2_FirstCharacter.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\obj\Debug\net6.0\Q2_FirstCharacter.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\obj\Debug\net6.0\Q2_FirstCharacter.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Q2_FirstCharacter\Q2_FirstCharacter\obj\Debug\net6.0\ref\Q2_FirstCharacter.dll
