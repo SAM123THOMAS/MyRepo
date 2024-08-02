@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\bin\Debug\net6.0\Day_8.exe
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\bin\Debug\net6.0\Day_8.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\bin\Debug\net6.0\Day_8.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\bin\Debug\net6.0\Day_8.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\bin\Debug\net6.0\Day_8.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\obj\Debug\net6.0\Day_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\obj\Debug\net6.0\Day_8.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\obj\Debug\net6.0\Day_8.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\obj\Debug\net6.0\Day_8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\obj\Debug\net6.0\Day_8.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\obj\Debug\net6.0\refint\Day_8.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\obj\Debug\net6.0\Day_8.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\obj\Debug\net6.0\Day_8.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\obj\Debug\net6.0\ref\Day_8.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\obj\Debug\net6.0\Day_8.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\bin\Debug\net6.0\Calculator.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\Day_8\obj\Debug\net6.0\Day_8.csproj.CopyComplete
