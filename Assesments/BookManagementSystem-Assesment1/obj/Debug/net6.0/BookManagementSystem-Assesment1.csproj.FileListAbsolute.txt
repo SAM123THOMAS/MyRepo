@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\bin\Debug\net6.0\BookManagementSystem-Assesment1.exe
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\bin\Debug\net6.0\BookManagementSystem-Assesment1.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\bin\Debug\net6.0\BookManagementSystem-Assesment1.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\bin\Debug\net6.0\BookManagementSystem-Assesment1.dll
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\bin\Debug\net6.0\BookManagementSystem-Assesment1.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\obj\Debug\net6.0\BookManagementSystem-Assesment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\obj\Debug\net6.0\BookManagementSystem-Assesment1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\obj\Debug\net6.0\BookManagementSystem-Assesment1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\obj\Debug\net6.0\BookManagementSystem-Assesment1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\obj\Debug\net6.0\BookManagementSystem-Assesment1.dll
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\obj\Debug\net6.0\refint\BookManagementSystem-Assesment1.dll
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\obj\Debug\net6.0\BookManagementSystem-Assesment1.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\obj\Debug\net6.0\BookManagementSystem-Assesment1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\BookManagementSystem-Assesment1\obj\Debug\net6.0\ref\BookManagementSystem-Assesment1.dll
