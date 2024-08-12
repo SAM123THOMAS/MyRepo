@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\bin\Debug\net6.0\Day_13.exe
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\bin\Debug\net6.0\Day_13.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\bin\Debug\net6.0\Day_13.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\bin\Debug\net6.0\Day_13.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\bin\Debug\net6.0\Day_13.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\obj\Debug\net6.0\Day_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\obj\Debug\net6.0\Day_13.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\obj\Debug\net6.0\Day_13.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\obj\Debug\net6.0\Day_13.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\obj\Debug\net6.0\Day_13.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\obj\Debug\net6.0\refint\Day_13.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\obj\Debug\net6.0\Day_13.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\obj\Debug\net6.0\Day_13.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\obj\Debug\net6.0\ref\Day_13.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\obj\Debug\net6.0\Day_13.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DotNetTraining\Day_13\obj\Debug\net6.0\Day_13.csproj.CopyComplete
