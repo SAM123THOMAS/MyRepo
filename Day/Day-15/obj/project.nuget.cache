@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZuDo4dMnZhxZxqwWPM/8QlG7VWcZRvu4EiLdkrOFOAqV9OOPpMFrOi8O4QAM3OVkUtcotClg+uBQtpCanJvWcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\DotNetTraining\\Day-15\\Day-15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
