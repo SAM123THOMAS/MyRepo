@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\bin\Debug\net6.0\Doctor-Reassesment1.exe
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\bin\Debug\net6.0\Doctor-Reassesment1.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\bin\Debug\net6.0\Doctor-Reassesment1.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\bin\Debug\net6.0\Doctor-Reassesment1.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\bin\Debug\net6.0\Doctor-Reassesment1.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\obj\Debug\net6.0\Doctor-Reassesment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\obj\Debug\net6.0\Doctor-Reassesment1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\obj\Debug\net6.0\Doctor-Reassesment1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\obj\Debug\net6.0\Doctor-Reassesment1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\obj\Debug\net6.0\Doctor-Reassesment1.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\obj\Debug\net6.0\refint\Doctor-Reassesment1.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\obj\Debug\net6.0\Doctor-Reassesment1.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\obj\Debug\net6.0\Doctor-Reassesment1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Doctor-Reassesment1\obj\Debug\net6.0\ref\Doctor-Reassesment1.dll
