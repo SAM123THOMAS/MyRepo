@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+UpodqclJHSkw8wMcMVQiRS+cHo3s8UW8g7wJWgu2rnxKq/hM0SW1vOmt7BOH4I7UiSGayxXCaon/vCGefcWeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\DotNetTraining\\MyRepo\\Day\\ProjectObjectModelDemo\\ProjectObjectModelDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

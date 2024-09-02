@@ -1,0 +1,23 @@
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\Selenium Test.exe
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\Selenium Test.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\Selenium Test.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\Selenium Test.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\Selenium Test.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\obj\Debug\net6.0\Selenium Test.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\obj\Debug\net6.0\Selenium Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\obj\Debug\net6.0\Selenium Test.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\obj\Debug\net6.0\Selenium Test.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\obj\Debug\net6.0\Selenium Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\obj\Debug\net6.0\Selenium Test.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\obj\Debug\net6.0\Selenium Test.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\obj\Debug\net6.0\refint\Selenium Test.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\obj\Debug\net6.0\Selenium Test.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\obj\Debug\net6.0\Selenium Test.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Day\Day-21\Selenium Test\obj\Debug\net6.0\ref\Selenium Test.dll
