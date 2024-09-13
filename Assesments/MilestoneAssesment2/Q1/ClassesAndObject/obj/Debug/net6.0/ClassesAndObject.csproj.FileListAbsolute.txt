@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\bin\Debug\net6.0\ClassesAndObject.exe
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\bin\Debug\net6.0\ClassesAndObject.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\bin\Debug\net6.0\ClassesAndObject.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\bin\Debug\net6.0\ClassesAndObject.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\bin\Debug\net6.0\ClassesAndObject.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\obj\Debug\net6.0\ClassesAndObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\obj\Debug\net6.0\ClassesAndObject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\obj\Debug\net6.0\ClassesAndObject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\obj\Debug\net6.0\ClassesAndObject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\obj\Debug\net6.0\ClassesAndObject.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\obj\Debug\net6.0\refint\ClassesAndObject.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\obj\Debug\net6.0\ClassesAndObject.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\obj\Debug\net6.0\ClassesAndObject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\ClassesAndObject\obj\Debug\net6.0\ref\ClassesAndObject.dll

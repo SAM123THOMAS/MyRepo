@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q4\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll

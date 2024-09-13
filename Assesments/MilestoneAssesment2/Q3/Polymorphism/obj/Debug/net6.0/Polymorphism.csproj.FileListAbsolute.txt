@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\MilestoneAssesment2\Q3\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll

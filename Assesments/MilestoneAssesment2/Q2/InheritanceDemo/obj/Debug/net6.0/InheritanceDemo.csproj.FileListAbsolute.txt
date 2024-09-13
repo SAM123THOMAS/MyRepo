@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.exe
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.deps.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\obj\Debug\net6.0\refint\InheritanceDemo.dll
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.pdb
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DotNetTraining\MyRepo\Assesments\Q1\MilestoneAssesment2\InheritanceDemo\obj\Debug\net6.0\ref\InheritanceDemo.dll
