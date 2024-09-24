@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YHiAKsO86jmw/mlrGFYMzBBckUoOwYU7su/dkREzpiAN7MIO6H4nnhpj5TwLVciLqrs84VkuM3aCfVxOKoS5qQ==",
+  "dgSpecHash": "FoOrYY0LPjR8jGhP7mHr/7MFY6jL6D7FJnRpoMi3FiYIpIuLOLTU2k3HMeXuh0mUyE+U0qr0SmTh2aSh+oH5Jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\DotNetTraining\\MyRepo\\Assesments\\Q1\\MilestoneAssesment2\\InheritanceDemo\\InheritanceDemo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\DotNetTraining\\MyRepo\\Assesments\\MilestoneAssesment2\\Q2\\InheritanceDemo\\InheritanceDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
