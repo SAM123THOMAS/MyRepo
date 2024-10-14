@@ -70,7 +70,7 @@ namespace DbConnectionDemo
                         break;
                     case 3:
                         Console.WriteLine("Please enter employee ID");
-                        int employeeID = Convert.ToInt32(Console.ReadLine());
+                         int employeeID = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("Please enter new employee Name");
                         string newEmployeeName = Console.ReadLine();
                         UpdateData(employeeID, newEmployeeName, conn);
