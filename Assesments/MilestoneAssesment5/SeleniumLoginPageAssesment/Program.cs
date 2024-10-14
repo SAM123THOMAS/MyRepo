@@ -20,9 +20,9 @@ namespace SeleniumLoginPageAssesment
 
 
 
-            EnterTextBox(UsernameField, "student");
-            EnterTextBox(PasswordField, "Password123");
-            IWebElement submitButton = (IWebElement)js.ExecuteScript(script);
+            EnterTextBox(UsernameField, "student");  //Username fill
+            EnterTextBox(PasswordField, "Password123"); //Password Fill
+            js.ExecuteScript(script);  //click login button
 
 
 
